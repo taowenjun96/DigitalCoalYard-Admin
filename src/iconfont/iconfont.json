@@ -1,0 +1,30 @@
+{
+  "id": "4297900",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "849690",
+      "name": "orignsize",
+      "font_class": "orignsize",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "37250837",
+      "name": "耗煤",
+      "font_class": "haomei",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "37251432",
+      "name": "进煤",
+      "font_class": "jinmei",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
